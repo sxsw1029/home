@@ -51,7 +51,7 @@
           </div>
         </div>
 
-        <img class="order-1 lg:order-2 w-42 h-42 lg:w-50 lg:h-50 overflow-hidden border-2 border-white rounded-full border-solid shadow-md transition duration-500 dark:shadow-white/10 hover:shadow-2xl" src="https://gravatar.loli.net/avatar/2243c217602059ec1739885977df96e7?s=200?d=mp?f=y" alt="Avatar">
+        <img class="order-1 lg:order-2 w-42 h-42 lg:w-50 lg:h-50 overflow-hidden border-4 border-white rounded-full border-solid shadow-md transition duration-500 dark:shadow-white/10 hover:shadow-2xl" src="https://gravatar.loli.net/avatar/2243c217602059ec1739885977df96e7?s=200?d=mp?f=y" alt="Avatar">
       </div>
 
       <footer
