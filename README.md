@@ -1,75 +1,10 @@
-# Nuxt Minimal Starter
+<h1 align="center">My personal homepage</h1>
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<div align="center">
+    <img src="https://img.shields.io/badge/BUILT%20WITH-Nuxt-nrightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/BUILT%20WITH-TAILWINDCSS-blue?style=for-the-badge" />
+</div>
 
-## Setup
-
-Make sure to install dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<div align="center">
+    <img src="https://img.shields.io/badge/MADE%20WITH-%E2%9D%A4-red?style=for-the-badge" />
+</div>
