@@ -11,7 +11,7 @@
       class="absolute inset-0 -z-10 bg-gradient-to-b from-transparent via-gray-100/75 to-gray-100"
     />
 
-    <div class="min-h-screen flex flex-col p-6">
+    <div class="min-h-dvh flex flex-col p-6">
       <div class="flex flex-1 flex-col lg:flex-row gap-20 lg:gap-32 items-center justify-center">
         <div class="order-2 lg:order-1 flex flex-col gap-4">
           <div class="flex flex-col gap-2">
