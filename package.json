@@ -12,15 +12,15 @@
     "lint:fix": "eslint --fix"
   },
   "dependencies": {
-    "@antfu/eslint-config": "^5.1.0",
-    "@nuxt/eslint": "1.7.1",
-    "@nuxt/fonts": "0.11.4",
-    "@nuxt/icon": "1.15.0",
-    "@tailwindcss/vite": "^4.1.11",
-    "eslint": "^9.32.0",
-    "nuxt": "^4.0.1",
-    "tailwindcss": "^4.1.11",
-    "vue": "^3.5.18",
-    "vue-router": "^4.5.1"
+    "@antfu/eslint-config": "^7.2.0",
+    "@nuxt/eslint": "1.12.1",
+    "@nuxt/fonts": "0.12.1",
+    "@nuxt/icon": "2.2.1",
+    "@tailwindcss/vite": "^4.1.18",
+    "eslint": "^9.39.2",
+    "nuxt": "^4.2.2",
+    "tailwindcss": "^4.1.18",
+    "vue": "^3.5.27",
+    "vue-router": "^4.6.4"
   }
 }
