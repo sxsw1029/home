@@ -58,7 +58,7 @@
         class="flex flex-col justify-center items-center py-2 text-sm"
       >
         <div class="my-px">
-          <span class="text-gray-500">&copy; 2023-{{ new Date().getFullYear() }} · Xushuaiwei Shi</span>
+          <span class="text-gray-500">Made with ❤ · &copy; 2026 Xushuaiwei Shi</span>
         </div>
 
         <div class="flex flex-col lg:flex-row items-center">
