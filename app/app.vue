@@ -85,9 +85,3 @@
     </div>
   </main>
 </template>
-
-<style>
-body {
-  font-family: var(--font-display);
-}
-</style>
