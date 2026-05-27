@@ -3,12 +3,12 @@
     <div
       class="absolute inset-0 -z-10
     bg-[linear-gradient(to_right,var(--color-gray-200)_1px,transparent_1px),linear-gradient(to_bottom,var(--color-gray-200)_1px,transparent_1px)]
-    bg-[size:40px_40px]
+    bg-size-[40px_40px]
     bg-gray-50"
     />
 
     <div
-      class="absolute inset-0 -z-10 bg-gradient-to-b from-transparent via-gray-100/75 to-gray-100"
+      class="absolute inset-0 -z-10 bg-linear-to-b from-transparent via-gray-100/75 to-gray-100"
     />
 
     <div class="min-h-dvh flex flex-col p-6">
